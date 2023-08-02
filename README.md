@@ -1,6 +1,6 @@
 <p align='center'>
 <img src='./src/assets/logo.svg'  width='25%'>
-</p>
+</p>        
 <p align='center'>
 <b>E-commerce web-application for selling clothing essentials</b>
 </p>
